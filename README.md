@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/maundu_cyrus" target="blank"><img src="https://img.shields.io/twitter/follow/maundu_cyrus?logo=twitter&style=for-the-badge" alt="maundu_cyrus" /></a> </p>
 
-- 🌱 I’m currently learning **Js, Html, Css, Java, Database**
+- 🌱 I’m currently learning **Python, Django**
 
-- 👨‍💻 All of my projects are available at [cyrusbens.w3spaces.com/](cyrusbens.w3spaces.com/)
+- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/maunducyrus/sites](https://app.netlify.com/teams/maunducyrus/sites)
 
-- 💬 Ask me about **Js, Html, Css, Java, Database**
+- 💬 Ask me about **Html, Css, Javascript, ReactJS, Bootstrap, Python, Django, MySQL, Git and Github**
 
 - 📫 How to reach me **maunducyrus123@gmail.com**
 
