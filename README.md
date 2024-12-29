@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maunducyrus</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate Front-end and Backend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maunducyrus&label=Profile%20views&color=0e75b6&style=flat" alt="maunducyrus" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/maundu_cyrus" target="blank"><img src="https://img.shields.io/twitter/follow/maundu_cyrus?logo=twitter&style=for-the-badge" alt="maundu_cyrus" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **Python, Django for Backend**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/maunducyrus/sites](https://app.netlify.com/teams/maunducyrus/sites)
 
