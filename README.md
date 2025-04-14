@@ -2,10 +2,10 @@
 <h3 align="center">A Passionate Full-Stack Developer from Kenya</h3>
 
 <div align="center">
-### 🥇 My Porfolio:
+🥇 My Porfolio:
 </div>
 <p align="center">
-[My Portfolio](https://maunducyrus.netlify.app/)
+(https://maunducyrus.netlify.app/)
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 - **Database Management** with MySQL
 
 ### 👨‍💻 My Projects:
-- Check out my work: **[Netlify Portfolio](https://app.netlify.com/teams/maunducyrus/sites)**
+- Check out my work: **[Projects Dashboard](https://app.netlify.com/teams/maunducyrus/sites)**
 
 ### 💬 Ask Me About:
 - **HTML, CSS, JavaScript, ReactJS, Bootstrap**
