@@ -4,9 +4,9 @@
 <div align="center">
 ### 🥇 My Porfolio:
 </div>
-<div align="center">
-**[My Portfolio](https://maunducyrus.netlify.app/)**
-</div>
+<p align="center">
+[My Portfolio](https://maunducyrus.netlify.app/)
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maunducyrus&label=Profile%20views&color=0e75b6&style=flat" alt="maunducyrus" />
