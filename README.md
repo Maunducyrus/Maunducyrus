@@ -18,6 +18,7 @@
   </a>
 </p>
 ---
+
 ### 🌱 Currently Learning:
 - **Python & Django** for Backend Development
 - **Advanced Frontend Development** (ReactJS, Bootstrap)
