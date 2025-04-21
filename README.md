@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/twitter/follow/maundu_cyrus?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
-
 ---
 ### 🌱 Currently Learning:
 - **Python & Django** for Backend Development
