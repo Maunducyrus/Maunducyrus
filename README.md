@@ -6,6 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=orange&size=30&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub❤️❤️❤️;Passionate+about+Frontend+Design;Backend+Software+Development;Prompt+Engineering;RESTApi+Development;Always+Ready+To+Learn;Team+Player;Open+for+Collaborations;Thank+For+Visiting+My+GitHub🥳🥳🥳">
   </a>
 </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
 🥇 My Porfolio:
