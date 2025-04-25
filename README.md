@@ -1,6 +1,6 @@
 <img align="left"  src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center" style="font-size:40px">Hi <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px"> I'm Maundu Cyrus</h1>
+<h1 align="center" style="font-size: 80px">Hi <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px"> I'm Maundu Cyrus</h1>
 <h3 align="center">A Passionate Full-Stack Developer from Kenya</h3>
 
 <div align="center">
